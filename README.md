@@ -10,7 +10,7 @@
 - Created a **custom programming language interpreter**.
 - See more: [🔗 Repository](https://github.com/PauloviciAndrei/Interpreter)
 
-### ☀️ Weather App (TypeScript + Angular)  
+### ☀️ Weather App (Spring Boot + Angular)  
 - Displays **real-time weather updates** with a GUI.
 - Uses **OpenWeather API** for data retrieval.
 - Try it: [🔗 Repository](https://github.com/PauloviciAndrei/weatherapp)
