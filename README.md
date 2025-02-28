@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Andrei Paulovici! 
 🚀 Software Developer 
 
-🔹 Passionate about building intelligent systems and improving software efficiency.  
-
 ## 🔥 Featured Projects
 ### 🏆 Gomoku (Python)  
 - Developed a **bot** that strategically plays Gomoku.
