@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrei Paulovici! 
+🚀 Software Developer 
 
-<!--
-**PauloviciAndrei/PauloviciAndrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about building intelligent systems and improving software efficiency.  
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
+### 🏆 Gomoku (Python)  
+- Developed a **bot** that strategically plays Gomoku.
+- Check it out: [🔗 Repository](https://github.com/PauloviciAndrei/Gomoku)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔣 Interpreter (Java)  
+- Created a **custom programming language interpreter**.
+- See more: [🔗 Repository](https://github.com/PauloviciAndrei/Interpreter)
+
+### ☀️ Weather App (TypeScript + Angular)  
+- Displays **real-time weather updates** with a GUI.
+- Uses **OpenWeather API** for data retrieval.
+- Try it: [🔗 Repository](https://github.com/PauloviciAndrei/weatherapp)
+
+## 📫 Connect with Me:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/andrei-paulovici-202261339/)
+- 📧 Email: andreipaulovici333@gmail.com
