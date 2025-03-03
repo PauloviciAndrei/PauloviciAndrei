@@ -18,7 +18,7 @@
 ### 🎮 Unity Quiz Game  
 - A **multiple-choice quiz game** with a timer and scoring system.
 - Built using **Unity and C#** with a simple and interactive UI.
-- See it here: [🔗 Repository](#) (https://github.com/PauloviciAndrei/Quiz)
+- See it here: [🔗 Repository](#) *(https://github.com/PauloviciAndrei/Quiz)*
 
 ## 👫 Connect with Me:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/andrei-paulovici-202261339/)
